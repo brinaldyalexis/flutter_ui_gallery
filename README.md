@@ -18,7 +18,10 @@ flutter pub get
 flutter run
 ```
 
-## Job App UI
+This project uses the `go_router` package for route management. The routes are defined in the `/lib/routes` folder in the `app_router.dart` file. You can check the route configuration [here](https://github.com/brinaldyalexis/flutter_ui_gallery/tree/main/lib/routes).
+
+## Job App UI [View code](https://github.com/brinaldyalexis/flutter_ui_gallery/tree/main/lib/views/jobs)
+
 This project includes a job application UI that demonstrates how to create a modern job listing interface using Flutter. The UI is designed to be user-friendly and visually appealing, making it easy for users to browse and apply for jobs.
 
 ### Screenshots
@@ -31,9 +34,3 @@ This project includes a job application UI that demonstrates how to create a mod
 |:------------------------------:|:------------------------------:|:------------------------------:|
 | [Recovery Screen](https://github.com/brinaldyalexis/flutter_ui_gallery/blob/main/lib/views/jobs/job_recovery_password_view.dart) | [Job Search Screen](https://github.com/brinaldyalexis/flutter_ui_gallery/blob/main/lib/views/jobs/search_job_view.dart) | [Job Detail Screen](https://github.com/brinaldyalexis/flutter_ui_gallery/blob/main/lib/views/jobs/job_view.dart) |
 
-
-
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
