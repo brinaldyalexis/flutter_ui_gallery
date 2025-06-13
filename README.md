@@ -27,9 +27,10 @@ This project includes a job application UI that demonstrates how to create a mod
 |:------------------------------:|:------------------------------:|:------------------------------:|
 | [Onboarding Screen](https://github.com/brinaldyalexis/flutter_ui_gallery/blob/main/lib/views/jobs/onboarding_job_view.dart) | [Signup Screen](https://github.com/brinaldyalexis/flutter_ui_gallery/blob/main/lib/views/jobs/signup_job_view.dart) | [Login Screen](https://github.com/brinaldyalexis/flutter_ui_gallery/blob/main/lib/views/jobs/signin_job_view.dart) |
 
-| ![Recovery Screen](https://raw.githubusercontent.com/brinaldyalexis/flutter_ui_gallery/main/assets/jobs/job-recovery.png) | | |
+| ![Recovery Screen](https://raw.githubusercontent.com/brinaldyalexis/flutter_ui_gallery/main/assets/jobs/job-recovery.png) | ![Job Search Screen](https://raw.githubusercontent.com/brinaldyalexis/flutter_ui_gallery/main/assets/jobs/job-search.png) | ![Job Detail Screen](https://raw.githubusercontent.com/brinaldyalexis/flutter_ui_gallery/main/assets/jobs/job-view.png) |
 |:------------------------------:|:------------------------------:|:------------------------------:|
-| [Recovery Screen](https://github.com/brinaldyalexis/flutter_ui_gallery/blob/main/lib/views/jobs/job_recovery_password_view.dart) | | |
+| [Recovery Screen](https://github.com/brinaldyalexis/flutter_ui_gallery/blob/main/lib/views/jobs/job_recovery_password_view.dart) | [Job Search Screen](https://github.com/brinaldyalexis/flutter_ui_gallery/blob/main/lib/views/jobs/search_job_view.dart) | [Job Detail Screen](https://github.com/brinaldyalexis/flutter_ui_gallery/blob/main/lib/views/jobs/job_view.dart) |
+
 
 
 
