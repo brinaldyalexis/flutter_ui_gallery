@@ -25,11 +25,11 @@ This project includes a job application UI that demonstrates how to create a mod
 
 | ![Onboarding Screen](https://raw.githubusercontent.com/brinaldyalexis/flutter_ui_gallery/main/assets/jobs/job-onboarding.png) | ![Signup Screen](https://raw.githubusercontent.com/brinaldyalexis/flutter_ui_gallery/main/assets/jobs/job-signup.png) | ![Login Screen](https://raw.githubusercontent.com/brinaldyalexis/flutter_ui_gallery/main/assets/jobs/job-login.png) |
 |:------------------------------:|:------------------------------:|:------------------------------:|
-| [Onboarding Screen](https://github.com/brinaldyalexis/flutter_ui_gallery/blob/main/lib/views/jobs/onboarding_job_view.dart) | [Signup Screen](https://github.com/brinaldyalexis/flutter_ui_gallery/blob/main/lib/views/jobs/signup_job_view.dart) | [Login Screen](https://github.com/brinaldyalexis/flutter_ui_gallery/blob/main/lib/views/jobs/login_job_view.dart) |
+| [Onboarding Screen](https://github.com/brinaldyalexis/flutter_ui_gallery/blob/main/lib/views/jobs/onboarding_job_view.dart) | [Signup Screen](https://github.com/brinaldyalexis/flutter_ui_gallery/blob/main/lib/views/jobs/signup_job_view.dart) | [Login Screen](https://github.com/brinaldyalexis/flutter_ui_gallery/blob/main/lib/views/jobs/signin_job_view.dart) |
 
 | ![Recovery Screen](https://raw.githubusercontent.com/brinaldyalexis/flutter_ui_gallery/main/assets/jobs/job-recovery.png) | | |
 |:------------------------------:|:------------------------------:|:------------------------------:|
-| [Recovery Screen](https://github.com/brinaldyalexis/flutter_ui_gallery/blob/main/lib/views/jobs/recovery_job_view.dart) | | |
+| [Recovery Screen](https://github.com/brinaldyalexis/flutter_ui_gallery/blob/main/lib/views/jobs/job_recovery_password_view.dart) | | |
 
 
 
