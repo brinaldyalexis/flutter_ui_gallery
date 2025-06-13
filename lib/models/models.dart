@@ -1,0 +1,1 @@
+export 'package:flutter_ui_gallery/models/job_model.dart';

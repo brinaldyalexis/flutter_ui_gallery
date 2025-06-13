@@ -1,0 +1,9 @@
+export 'package:flutter_ui_gallery/routes/animations/slide_up_page_animation.dart';
+export 'package:flutter_ui_gallery/routes/animations/slide_down_page_animation.dart';
+export 'package:flutter_ui_gallery/routes/animations/slide_left_page_animation.dart';
+export 'package:flutter_ui_gallery/routes/animations/slide_right_page_animation.dart';
+export 'package:flutter_ui_gallery/routes/animations/fade_in_up_page_animation.dart';
+export 'package:flutter_ui_gallery/routes/animations/fade_in_down_page_animation.dart';
+export 'package:flutter_ui_gallery/routes/animations/fade_in_left_page_animation.dart';
+export 'package:flutter_ui_gallery/routes/animations/fade_in_right_page_animation.dart';
+export 'package:flutter_ui_gallery/routes/animations/zoom_in_page_animation.dart';
